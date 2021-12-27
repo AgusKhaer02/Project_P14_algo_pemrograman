@@ -7,6 +7,8 @@
 int main()
 {
     int s,p,l;
+    printf("Nama : Agus Kurniadin Khaer \n");
+    printf("NIM : 201110199 \n");
     printf("Program dengan fungsi \n");
     printf("-------------------------\n");
     printf("HITUNG PERSEGI ==== \n");
