@@ -1,6 +1,5 @@
 //main.c
-#include "persegi.c"
-#include "persegipanjang.c"
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 
